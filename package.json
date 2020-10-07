@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Porisey/circleci-test/issues"
   },
-  "homepage": "https://github.com/Porisey/circleci-test#readme"
+  "homepage": "https://github.com/Porisey/circleci-test#readme",
+  "dependencies": {
+    "lodash.throttle": "^4.1.1"
+  }
 }
